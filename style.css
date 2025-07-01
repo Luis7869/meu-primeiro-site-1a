@@ -4,3 +4,16 @@ color:crimson;
 font-family: sans-serif;
 margin-bottom:100px;
 }
+header{
+    border-bottom: solid 2x green;
+    padding: 20px;
+    font-size: 30px;
+    color:purple;
+}
+
+section {
+    background-color:white;
+    padding-bottom:80px;
+    padding-top:80px;
+    display:flex;
+}
